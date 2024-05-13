@@ -1,0 +1,29 @@
+*{
+    background-color: antiquewhite;
+}
+
+
+div {
+    width: 600px;
+    border: 5px solid ;
+    padding: 60px;
+    margin: 20px;
+    height: inherit;
+    background-color: white;
+  }
+
+  .ipsum{
+    background-color: rgba(194, 97, 28, 0.463);
+  }
+  .quis{
+    background-color: rgba(224, 226, 106, 0.463);
+  }
+
+  .purple{
+    color: purple;
+    background-color: white;
+  }
+  h2,p{background-color: white;}
+
+  
+  .border{border: crimson dashed;}
